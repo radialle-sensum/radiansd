@@ -36,6 +36,6 @@ _This document is also available in the following languages:
 
 ## Links
 
-* [Sensum](https://rapidlight.io/sensum/)  
+* [Sensum](https://github.com/radialle-sensum/sensum)  
   A project dedicated to the practical exploration of the subjects related to
   the development of wearable devices.

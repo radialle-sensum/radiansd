@@ -36,6 +36,6 @@ _Este documento também está disponível nas seguintes linguagens:
 
 ## Links
 
-* [Sensum](https://rapidlight.io/sensum/)  
+* [Sensum](https://github.com/radialle-sensum/sensum)  
   Projeto direcionado à exploração prática dos temas relacionados ao
   desenvolvimento de _wearables_.
